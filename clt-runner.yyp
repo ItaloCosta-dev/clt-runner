@@ -35,6 +35,7 @@
   },
   "name":"clt-runner",
   "resources":[
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_room_controler","path":"objects/obj_room_controler/obj_room_controler.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_page01","path":"rooms/rm_page01/rm_page01.yy",},},
@@ -47,6 +48,7 @@
     {"id":{"name":"spr_img03","path":"sprites/spr_img03/spr_img03.yy",},},
     {"id":{"name":"spr_img04","path":"sprites/spr_img04/spr_img04.yy",},},
     {"id":{"name":"spr_img05","path":"sprites/spr_img05/spr_img05.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
