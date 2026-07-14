@@ -1,3 +1,3 @@
 // Velocidade
-speed = 1;
+speed = 3;
 direction = 270;
