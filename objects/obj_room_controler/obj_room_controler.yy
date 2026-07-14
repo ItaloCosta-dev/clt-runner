@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_controle01",
+  "%Name":"obj_room_controler",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_controle01",
+  "name":"obj_room_controler",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

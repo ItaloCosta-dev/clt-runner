@@ -35,7 +35,7 @@
   },
   "name":"clt-runner",
   "resources":[
-    {"id":{"name":"obj_controle01","path":"objects/obj_controle01/obj_controle01.yy",},},
+    {"id":{"name":"obj_room_controler","path":"objects/obj_room_controler/obj_room_controler.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_page01","path":"rooms/rm_page01/rm_page01.yy",},},
     {"id":{"name":"rm_page02","path":"rooms/rm_page02/rm_page02.yy",},},
