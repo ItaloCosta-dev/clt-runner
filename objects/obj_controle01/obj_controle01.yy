@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_continuar",
-  "eventList":[],
+  "%Name":"obj_controle01",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_continuar",
+  "name":"obj_controle01",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_img05",
-    "path":"sprites/spr_img05/spr_img05.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

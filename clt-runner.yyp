@@ -35,7 +35,8 @@
   },
   "name":"clt-runner",
   "resources":[
-    {"id":{"name":"obj_continuar","path":"objects/obj_continuar/obj_continuar.yy",},},
+    {"id":{"name":"obj_controle01","path":"objects/obj_controle01/obj_controle01.yy",},},
+    {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_page01","path":"rooms/rm_page01/rm_page01.yy",},},
     {"id":{"name":"rm_page02","path":"rooms/rm_page02/rm_page02.yy",},},
     {"id":{"name":"rm_page03","path":"rooms/rm_page03/rm_page03.yy",},},
@@ -53,6 +54,7 @@
     {"roomId":{"name":"rm_page02","path":"rooms/rm_page02/rm_page02.yy",},},
     {"roomId":{"name":"rm_page03","path":"rooms/rm_page03/rm_page03.yy",},},
     {"roomId":{"name":"rm_page04","path":"rooms/rm_page04/rm_page04.yy",},},
+    {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
